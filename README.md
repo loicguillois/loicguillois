@@ -40,13 +40,14 @@ Full-stack developer & AI engineer with 15+ years of experience. Building secure
 
 ## Personal Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [ExigeOS](https://github.com/loicguillois/ExigeOS) | Experimental bare-metal kernel | C, Assembly |
-| [Elise-OS](https://github.com/loicguillois/Elise-OS) | Experimental operating system | C |
-| [md5hack](https://github.com/loicguillois/md5hack) | GPU-accelerated MD5 bruteforce | CUDA, C |
-| [MicroANT](https://github.com/loicguillois/MicroANT) | OS-less heart rate monitor | Embedded C |
-| [FireSynth](https://github.com/loicguillois/FireSynth) | 3D particle engine | C++ |
+| Project | Description | Stack | Topic |
+|---------|-------------|-------|-------|
+| [ExigeOS](https://github.com/loicguillois/ExigeOS) | Experimental bare-metal kernel | C, Assembly | Low-level / IoT |
+| [Elise-OS](https://github.com/loicguillois/Elise-OS) | Experimental operating system | C | Low-level / IoT |
+| [md5hack](https://github.com/loicguillois/md5hack) | GPU-accelerated MD5 bruteforce | CUDA, C | Cybersecurity |
+| [slopwatch](https://github.com/loicguillois/slopwatch) | Detect AI-hallucinated malicious packages | Rust | Cybersecurity |
+| [MicroANT](https://github.com/loicguillois/MicroANT) | OS-less heart rate monitor | Embedded C | Low-level / IoT |
+| [FireSynth](https://github.com/loicguillois/FireSynth) | 3D particle engine | C++ | 3D / Gaming |
 
 ---
 
