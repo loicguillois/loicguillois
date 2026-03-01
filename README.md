@@ -58,11 +58,11 @@ Early contributor to [Play Framework](https://www.playframework.com/), a high-ve
 ### Beta.Gouv (2016-present)
 Developer and technical lead on several French government startups:
 
-- **Zéro Logement Vacant** — Fighting vacant housing
-- **Conseillers Numériques** — Digital inclusion support
-- **Service National Universel** — Civic engagement platform
-- **Anotea** — Training reviews platform
-- **SHOM** — French Navy Hydrographic Service
+- [**Zéro Logement Vacant**](https://zerologementvacant.beta.gouv.fr) — Fighting vacant housing
+- [**Conseillers Numériques**](https://www.conseiller-numerique.gouv.fr) — Digital inclusion support
+- [**Service National Universel**](https://www.snu.gouv.fr) — Civic engagement platform
+- [**Anotea**](https://anotea.francetravail.fr) — Training reviews platform
+- [**SHOM**](https://www.shom.fr) — French Navy Hydrographic Service
 
 ---
 
