@@ -1,34 +1,73 @@
-# Hi, I'm Loïc Guillois
+# Loïc Guillois
 
-Software engineer with a passion for low-level programming, cybersecurity, and creative coding.
+**Software Engineer | AI · Cybersecurity · IoT**
 
-## Projects
+Full-stack developer & AI engineer with 15+ years of experience. Building secure digital products for French government [beta.gouv.fr](https://beta.gouv.fr). Security & data teacher. Passionate about low-level systems.
 
-### Low-level / IoT
+---
 
-| Project | Description |
-|---------|-------------|
-| [ExigeOS](https://github.com/loicguillois/ExigeOS) | Didactic bare-metal kernel in C for x86 and Raspberry Pi 3B |
-| [Elise-OS](https://github.com/loicguillois/Elise-OS) | Experimental operating system in x86 assembly (2003) |
-| [MicroANT](https://github.com/loicguillois/MicroANT) | Bare-metal x86 heart rate monitor using ANT+ wireless protocol |
-| [tapinoma](https://github.com/loicguillois/tapinoma) | Node.js module for the ANT+ protocol |
+## Areas of Expertise
+
+### Full-Stack Development
+- Backend (Node.js, Python/Django, Java/Spring)
+- Frontend (React, Redux, JavaScript ES6+)
+- Databases (PostgreSQL, MongoDB, Redis)
+- API design (REST, OAuth, JWT)
+
+### DevOps & Cloud
+- CI/CD (GitHub Actions, Docker, Ansible)
+- Cloud platforms (AWS, Azure, Clever Cloud, Scalingo)
+- Monitoring, logging & backup strategies
+
+### Artificial Intelligence & Data
+- Machine Learning / Deep Learning (Scikit-learn, TensorFlow, PyTorch)
+- NLP & LLM (OpenAI API, SpaCy, NLTK)
+- Computer Vision (OpenCV)
+- Data pipelines (Dagster, MLflow, Metabase)
 
 ### Cybersecurity
+- Application security (OWASP, vulnerability management)
+- Compliance (GDPR, risk analysis)
+- Reverse engineering & forensics
+- Vulnerability exploitation (CTF, personal projects)
 
-| Project | Description |
-|---------|-------------|
-| [md5hack](https://github.com/loicguillois/md5hack) | GPU-accelerated MD5 bruteforce cracker using CUDA |
+### Systems & IoT
+- Kernel / bare-metal development
+- Systems programming (C, x86 assembly)
+- Real-time embedded systems
 
-### 3D / Gaming
+---
 
-| Project | Description |
-|---------|-------------|
-| [FireSynth](https://github.com/loicguillois/FireSynth) | Demoscene-style fire particle engine in C++ and OpenGL |
-| [zork](https://github.com/loicguillois/zork) | RPG game project, built to learn Rust |
-| [JFlightSim](https://github.com/loicguillois/JFlightSim) | Hot air balloon simulator |
+## Personal Projects
 
-### AI / Machine Learning
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [ExigeOS](https://github.com/loicguillois/ExigeOS) | Experimental bare-metal kernel | C, Assembly |
+| [Elise-OS](https://github.com/loicguillois/Elise-OS) | Experimental operating system | C |
+| [md5hack](https://github.com/loicguillois/md5hack) | GPU-accelerated MD5 bruteforce | CUDA, C |
+| [MicroANT](https://github.com/loicguillois/MicroANT) | OS-less heart rate monitor | Embedded C |
+| [FireSynth](https://github.com/loicguillois/FireSynth) | 3D particle engine | C++ |
 
-| Project | Description |
-|---------|-------------|
-| [portfolio-ia](https://github.com/loicguillois/portfolio-ia) | Portfolio of AI / machine learning use cases |
+---
+
+## Open Source Contributions
+
+### Play Framework (2010's)
+Early contributor to [Play Framework](https://www.playframework.com/), a high-velocity web framework for Java and Scala.
+
+### Beta.Gouv (2016-present)
+Developer and technical lead on several French government startups:
+
+- **Zéro Logement Vacant** — Fighting vacant housing
+- **Conseillers Numériques** — Digital inclusion support
+- **Service National Universel** — Civic engagement platform
+- **Anotea** — Training reviews platform
+- **SHOM** — French Navy Hydrographic Service
+
+---
+
+## Education
+
+- **Advanced AI for Data Analysis** — École Polytechnique Executive Education (2022)
+- **Machine Learning Engineer** — OpenClassrooms (2022)
+- **Master M2IRT** — ITIN / CCI Versailles (2009)
