@@ -44,6 +44,7 @@ Full-stack developer & AI engineer with 15+ years of experience. Building secure
 |---------|-------------|-------|-------|
 | [music-genre-classification](https://github.com/loicguillois/music-genre-classification) | CNN-based music genre classifier (90% accuracy) | Python, TensorFlow | AI / Machine Learning |
 | [french-museum-recommender](https://github.com/loicguillois/french-museum-recommender) | Hybrid museum recommender (NLP + Graph) | Python, Node2Vec | AI / Machine Learning |
+| [cyber-log-clustering](https://github.com/loicguillois/cyber-log-clustering) | ML-based threat detection from network logs | Python, Scikit-learn | AI / Cybersecurity |
 | [slopwatch](https://github.com/loicguillois/slopwatch) | Detect AI-hallucinated malicious packages | Rust | Cybersecurity |
 | [md5hack](https://github.com/loicguillois/md5hack) | GPU-accelerated MD5 bruteforce | CUDA, C | Cybersecurity |
 | [ExigeOS](https://github.com/loicguillois/ExigeOS) | Experimental bare-metal kernel | C, Assembly | Low-level / IoT |
