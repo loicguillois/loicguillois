@@ -20,10 +20,10 @@ Full-stack developer & AI engineer with 15+ years of experience. Building secure
 - Monitoring, logging & backup strategies
 
 ### Artificial Intelligence & Data
-- Machine Learning / Deep Learning (Scikit-learn, TensorFlow, PyTorch)
-- NLP & LLM (OpenAI API, SpaCy, NLTK)
-- Computer Vision (OpenCV)
-- Data pipelines (Dagster, MLflow, Metabase)
+- Machine Learning / Deep Learning (Scikit-learn, TensorFlow/keras, PyTorch)
+- NLP & LLM (OpenAI & Anthropic API, Albert API, LLaMA, SpaCy, NLTK), RAG
+- Computer Vision (OpenCV, Generative AI)
+- Data pipelines (Dagster, Metabase, MLflow)
 
 ### Cybersecurity
 - Application security (OWASP, vulnerability management)
